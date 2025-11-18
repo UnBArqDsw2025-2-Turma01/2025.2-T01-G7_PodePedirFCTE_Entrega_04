@@ -35,12 +35,12 @@ Ao modelar os casos de uso é possível ter uma melhor noção de como serão as
 
 ### Página Original
 
-A página original do diagrama de casos de uso para a segunda entrega do trabalho de arquiteura pode ser acessada [aqui](https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G7_PodePedirFCTE_Entrega_02/#/Modelagem/ModelagemOrganizacional/DiagramaDeCasosDeUso), em que é possível também ver o diagrama, mas com melhores explicações sobre os relacionamentos que compõem um diagrama de casos de uso.
+A página original do diagrama de casos de uso para a segunda entrega do trabalho de arquitetura pode ser acessada [aqui](https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G7_PodePedirFCTE_Entrega_02/#/Modelagem/ModelagemOrganizacional/DiagramaDeCasosDeUso), em que é possível também ver o diagrama, mas com melhores explicações sobre os relacionamentos que compõem um diagrama de casos de uso.
 
 ### Principais Atores
 
 * **Aluno:** Representa um estudante da faculdade, é ele quem faz os pedidos no aplicativo.
-* **Fornencedor:** Representa um restaurante que está cadastrado no aplicativo.
+* **Fornecedor:** Representa um restaurante que está cadastrado no aplicativo.
 * **Entregador:** É o usuário do app que tem como responsabilidade entregar os pedidos feitos para o restaurante para o aluno.
 
 ### Principais Casos de Uso
@@ -61,7 +61,7 @@ A página original do diagrama de casos de uso para a segunda entrega do trabalh
 * Permite que o aluno veja o status do seu pedido, pode ser: pedido recebido pelo restaurante, em preparo, em rota de entrega, entregue.
 
 6. **Visualizar Histórico de Pedidos**
-* Permite que o aluno veja os pedidos que foram feitos anteriomente na sua conta.
+* Permite que o aluno veja os pedidos que foram feitos anteriormente na sua conta.
 
 7. **Visualizar Histórico de Pagamentos**
 * Permite que o aluno veja os históricos de pagamentos que foram feitos na sua conta.
@@ -73,13 +73,13 @@ A página original do diagrama de casos de uso para a segunda entrega do trabalh
 * Permite que o usuário (seja ele aluno, fornecedor ou entregador) entre na sua conta do aplicativo. É necessário um e-mail e senha, mas também pode ser feito por outros serviços como Google e Apple ID.
 
 10. **Gerenciar Perfil**
-* Permite que o usuário (seja ele aluno, fornecedor ou entregasdor) gerencie as informações principais do seu perfil, como nome, telefone e e-mail.
+* Permite que o usuário (seja ele aluno, fornecedor ou entregador) gerencie as informações principais do seu perfil, como nome, telefone e e-mail.
 
 11. **Gerenciar Pedidos**
 * Permite que o fornecedor visualize e gerencie os diferentes pedidos que foram feitos no seu restaurante.
 
-12. **Gerenciar Cardápio** *(<<include>> Gerênciar Itens do Cardápio)*
-* Permite que o forncedor gerencie as configurações do seu cardápio, como itens em destaque, itens em promoção ou conjunto de itens. Esse caso de uso inclui o caso de uso Gerênciar Itens do Cardápio, em que um item específico pode ter suas configurações alteradas pelo fornecedor.
+12. **Gerenciar Cardápio** *(<<include>> Gerenciar Itens do Cardápio)*
+* Permite que o fornecedor gerencie as configurações do seu cardápio, como itens em destaque, itens em promoção ou conjunto de itens. Esse caso de uso inclui o caso de uso Gerenciar Itens do Cardápio, em que um item específico pode ter suas configurações alteradas pelo fornecedor.
 
 13. **Preparar Pedidos** *(<<include>> Atualizar Status do Pedido)*
 * Permite que o fornecedor organize no app quais pedidos estão sendo preparados e estão na lista para serem preparados. Este caso de uso inclui o caso de uso Atualizar Status do Pedido, em que o fornecedor atualiza o estado do pedido para "em preparo", podendo ser visualizado pelo usuário.
@@ -91,7 +91,7 @@ A página original do diagrama de casos de uso para a segunda entrega do trabalh
 * Permite que o fornecedor responda, com texto, as avaliações realizadas pelos alunos.
 
 16. **Gerencia Fidelidade com Restaurantes**
-* Permite que o entregador se fidelize com um restaurante em específico ou um grupo de resturantes específicos. Dessa forma, este entregador será responsável por fazer entregas apenas para os restaurantes que tem fidelidade.
+* Permite que o entregador se fidelize com um restaurante em específico ou um grupo de restaurantes específicos. Dessa forma, este entregador será responsável por fazer entregas apenas para os restaurantes que tem fidelidade.
 
 17. **Atualiza Status da Entrega**
 * Permite que o entregador mude o status de entrega do pedido para "em rota de entrega" quando estiver a caminho do estudante.
@@ -118,7 +118,7 @@ Os seguintes relacionamentos foram identificados
 
 ## Considerações Finais
 
-Com o diagrama de casos de uso apresentado neste documento é possível ter uma visão geral das principais funcionalides do aplicativo. Servindo como um guia do que deverá ser implementado ao realizar cada um dos casos de uso. Além disso, é importante destacar que mesmo fornecendo uma boa noção de como alguns dos requisitos serão implementados, os outros documentos do DAS também são essenciais para que o projeto seja feito de maneira organizada e coerente com o que está sendo proposto com o app PodePedirFCTE.
+Com o diagrama de casos de uso apresentado neste documento é possível ter uma visão geral das principais funcionalidades do aplicativo. Servindo como um guia do que deverá ser implementado ao realizar cada um dos casos de uso. Além disso, é importante destacar que mesmo fornecendo uma boa noção de como alguns dos requisitos serão implementados, os outros documentos do DAS também são essenciais para que o projeto seja feito de maneira organizada e coerente com o que está sendo proposto com o app PodePedirFCTE.
 
 ## Referências
 
@@ -131,3 +131,4 @@ Com o diagrama de casos de uso apresentado neste documento é possível ter uma 
 | :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
 | 17/11/2025 |  `0.1`   | Criação da página. | [`@Luiz`](https://github.com/luizfaria1989) | [`@`](github.com/) |   xx/xx/2025    |
 | 17/11/2025 |  `0.2`   | Documentação da página. | [`@Luiz`](https://github.com/luizfaria1989) | [`@`](github.com/) |   xx/xx/2025    |
+| 18/11/2025 |  `0.3`   | Corrige erros de escrita. | [`@Luiz`](https://github.com/luizfaria1989) | [`@`](github.com/) |   xx/xx/2025    |
