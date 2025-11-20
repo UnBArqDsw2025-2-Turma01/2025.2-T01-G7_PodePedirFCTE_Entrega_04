@@ -129,6 +129,6 @@ Com o diagrama de casos de uso apresentado neste documento é possível ter uma 
 
 | **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
 | :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
-| 17/11/2025 |  `0.1`   | Criação da página. | [`@Luiz`](https://github.com/luizfaria1989) | [`@`](github.com/) |   xx/xx/2025    |
-| 17/11/2025 |  `0.2`   | Documentação da página. | [`@Luiz`](https://github.com/luizfaria1989) | [`@`](github.com/) |   xx/xx/2025    |
-| 18/11/2025 |  `0.3`   | Corrige erros de escrita. | [`@Luiz`](https://github.com/luizfaria1989) | [`@`](github.com/) |   xx/xx/2025    |
+| 17/11/2025 |  `0.1`   | Criação da página. | [`@Luiz`](https://github.com/luizfaria1989) | [`@Ana Joyce`](github.com/anajoyceamorim) |   20/11/2025    |
+| 17/11/2025 |  `0.2`   | Documentação da página. | [`@Luiz`](https://github.com/luizfaria1989) | [`@Ana Joyce`](github.com/anajoyceamorim) |   20/11/2025    |
+| 18/11/2025 |  `0.3`   | Corrige erros de escrita. | [`@Luiz`](https://github.com/luizfaria1989) | [`@Ana Joyce`](github.com/anajoyecamorim) |   20/11/2025    |
