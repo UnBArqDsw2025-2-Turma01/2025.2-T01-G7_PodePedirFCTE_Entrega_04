@@ -43,4 +43,4 @@ A quarta entrega teve apenas um foco, no qual 4 membros participaram:
 
 | **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
 | :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
-| 20/11/2025 |  `1.0`   | Criação do documento |[`@Ana Clara`](https://github.com/anabborges) | [`@`](https://github.com/) |    |
+| 20/11/2025 |  `1.0`   | Criação do documento |[`@Ana Clara`](https://github.com/anabborges) | [`@Ana Joyce`](https://github.com/anajoyceamorim) |  20/11/2025   |
