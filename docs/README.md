@@ -25,6 +25,10 @@ PodePedirFCTE é um aplicativo que permite que alunos da FCTE peçam comidas de 
 ## Screenshots da Quarta Entrega
 Aqui são encontrados alguns dos artefatos produzidos durante a Quarta Entrega, mais artefatos podem ser encontrados nas páginas do projeto.
 
+![diagrama pacotes](./assets/diagrama-de-pacotes.png)
+![diagrama atividades](./assets/diagrama-atividades/atividades_CLIENTE.png)
+![diagrama casos de uso](./assets/diagrama-caso-de-uso.png)
+
 
 ## Há algo a ser executado?
 
@@ -38,4 +42,4 @@ Aqui são encontrados alguns dos artefatos produzidos durante a Quarta Entrega, 
 
 | **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
 | :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
-| 20/11/2025 |  `1.0`   | Criação do documento. | [`@Ana Clara`](https://github.com/anabborges) | [[`@Ana Joyce`](https://github.com/anajoyceamorim) |   20/11/2025    |
+| 20/11/2025 |  `1.0`   | Criação do documento. | [`@Ana Clara`](https://github.com/anabborges) | [`@Ana Joyce`](https://github.com/anajoyceamorim) |   20/11/2025    |
