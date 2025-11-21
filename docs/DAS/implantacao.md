@@ -125,4 +125,4 @@ Toda comunicação sensível utiliza **criptografia TLS/HTTPS**.
 
 | **Versão** | **Data**   | **Autor**   | **Descrição da Modificação**                                 |
 | ---------- | ---------- | ----------- | ------------------------------------------------------------ |
-| 1.0        | 18/11/2025 | João Filipe | Criação inicial da Visão de Implantação.                     |
+| 1.0        | 20/11/2025 | João Filipe | Criação inicial da Visão de Implantação.                     |
