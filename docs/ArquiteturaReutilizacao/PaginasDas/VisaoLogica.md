@@ -15,7 +15,7 @@ A organização dos pacotes reflete a divisão de responsabilidades do sistema, 
 O diagrama abaixo ilustra a hierarquia e as dependências entre os subsistemas:
 
 <p align="center">
-  <img src="../../assets/diagrama-de-pacotes.png" alt="Diagrama de Pacotes">
+  <img src="../assets/diagrama-de-pacotes.png" alt="Diagrama de Pacotes">
 </p>
 
 ### Detalhamento dos Subsistemas
@@ -50,7 +50,7 @@ A modelagem abaixo reflete as decisões de design tomadas para garantir a integr
 O diagrama a seguir evidencia as relações de herança, agregação e dependência entre as entidades principais do domínio.
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/diagrama-de-classes.png" alt="Diagrama de Classes">
+  <img src="../assets/diagrama-de-classes/diagrama-de-classes.png" alt="Diagrama de Classes">
 </p>
 
 > **Nota:** Métodos de acesso (*getters* e *setters*) foram omitidos do diagrama para priorizar a legibilidade dos atributos e operações de negócio.
@@ -64,7 +64,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Usuário**  
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/usuario.png" alt="Usuário">
+  <img src="../assets/diagrama-de-classes/usuario.png" alt="Usuário">
 </p>  
 
 - **Responsabilidade:** Classe base (superclasse) que generaliza os dados comuns a todos os atores do sistema.
@@ -73,7 +73,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Aluno**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/aluno.png" alt="Aluno">
+  <img src="../assets/diagrama-de-classes/aluno.png" alt="Aluno">
 </p>  
 
 - **Tipo:** Especialização de `Usuário`.
@@ -82,7 +82,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Entregador**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/entregador.png" alt="Entregador">
+  <img src="../assets/diagrama-de-classes/entregador.png" alt="Entregador">
 </p>  
 
 - **Tipo:** Especialização de `Usuário`.
@@ -91,7 +91,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Fornecedor**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/fornecedor.png" alt="Fornecedor">
+  <img src="../assets/diagrama-de-classes/fornecedor.png" alt="Fornecedor">
 </p>  
 
 - **Tipo:** Especialização de `Usuário`.
@@ -102,7 +102,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Cardapio**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/cardapio.png" alt="Cardápio">
+  <img src="../assets/diagrama-de-classes/cardapio.png" alt="Cardápio">
 </p>  
 
 - **Responsabilidade:** Agrega os itens disponíveis para venda. Pertence exclusivamente a um `Fornecedor`.
@@ -110,7 +110,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Item**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/item.png" alt="Item">
+  <img src="../assets/diagrama-de-classes/item.png" alt="Item">
 </p> 
 
 - **Responsabilidade:** Representa a unidade mínima de venda (produto), contendo preço, descrição e disponibilidade.
@@ -118,7 +118,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Pedido**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/pedido.png" alt="Pedido">
+  <img src="../assets/diagrama-de-classes/pedido.png" alt="Pedido">
 </p> 
 
 - **Responsabilidade:** Entidade central da transação. Relaciona um `Aluno` a itens de um `Fornecedor` e a um `Entregador`.
@@ -129,7 +129,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **Pagamento**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/pagamento.png" alt="Pagamento">
+  <img src="../assets/diagrama-de-classes/pagamento.png" alt="Pagamento">
 </p> 
 
 - **Responsabilidade:** Gerencia a transação financeira entre as partes.
@@ -138,7 +138,7 @@ Abaixo descrevemos as responsabilidades de cada classe mapeada na Visão Lógica
 **CartaoPagamento**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-classes/cartao-pagamento.png" alt="Cartão Pagamento">
+  <img src="../assets/diagrama-de-classes/cartao-pagamento.png" alt="Cartão Pagamento">
 </p> 
 
 - **Responsabilidade:** Armazena de forma segura (tokenizada) os métodos de pagamento do aluno.
@@ -165,26 +165,26 @@ Focam na interação crítica entre o `AppEstudante`, `AppEntregador` e o `Orque
 **Acompanhar Pedido**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/acompanhar-pedido.png" alt="Acompanhar Pedido">
+  <img src="../assets/diagrama-de-sequencia/acompanhar-pedido.png" alt="Acompanhar Pedido">
 </p>
 
 
 **Atualizar Status da Entrega**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/status-da-entrega.png" alt="Atualizar Status da Entrega">
+  <img src="../assets/diagrama-de-sequencia/status-da-entrega.png" alt="Atualizar Status da Entrega">
 </p>
 
 **Histórico de Pedidos**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/historico-de-pedidos.png" alt="Histórico de Pedidos">
+  <img src="../assets/diagrama-de-sequencia/historico-de-pedidos.png" alt="Histórico de Pedidos">
 </p>
 
 **Histórico de Entregas**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/historico-de-entregas.png" alt="Histórico de Entregas">
+  <img src="../assets/diagrama-de-sequencia/historico-de-entregas.png" alt="Histórico de Entregas">
 </p>
 
 ### 2. Gestão de Usuários e Busca
@@ -194,13 +194,13 @@ Demonstra como o sistema manipula dados cadastrais e consultas, validando a comu
 **Gerenciar Perfil**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/gerenciar-perfil.png" alt="Gerenciar Perfil">
+  <img src="../assets/diagrama-de-sequencia/gerenciar-perfil.png" alt="Gerenciar Perfil">
 </p>
 
 **Buscar Restaurantes**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/buscar-restaurantes.png" alt="Buscar Restaurantes">
+  <img src="../assets/diagrama-de-sequencia/buscar-restaurantes.png" alt="Buscar Restaurantes">
 </p>
 
 ### 3. Fluxos de Suporte e Financeiro
@@ -210,25 +210,25 @@ Detalhamento das interações para processos de feedback e verificação finance
 **Avaliar Entregador**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/avaliar-entregador.png" alt="Avaliar Entregador">
+  <img src="../assets/diagrama-de-sequencia/avaliar-entregador.png" alt="Avaliar Entregador">
 </p>
 
 **Reportar Problema na Entrega**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/reportar-problema-entrega.png" alt="Reportar Problema na Entrega">
+  <img src="../assets/diagrama-de-sequencia/reportar-problema-entrega.png" alt="Reportar Problema na Entrega">
 </p>
 
 **Consultar Extrato**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/consultar-extrato.png" alt="Consultar Extrato">
+  <img src="../assets/diagrama-de-sequencia/consultar-extrato.png" alt="Consultar Extrato">
 </p>
 
 **Visualizar Recibos**
 
 <p align="center">
-  <img src="../../assets/diagrama-de-sequencia/visualizar-recibos.png" alt="Visualizar Recibos">
+  <img src="../assets/diagrama-de-sequencia/visualizar-recibos.png" alt="Visualizar Recibos">
 </p>
 
 
@@ -242,7 +242,7 @@ A classe `Pedido` é a entidade central do sistema. Seu estado determina quais o
 O diagrama abaixo ilustra as transições de estado do pedido desde a criação até a entrega final.
 
 <p align="center">
-  <img src="../../assets/diagrama-de-estados/visualizacao-cliente.png" alt="Ciclo de Vida do Pedido">
+  <img src="../assets/diagrama-de-estados/visualizacao-cliente.png" alt="Ciclo de Vida do Pedido">
 </p>
 
 **Regras de Transição:**
@@ -254,7 +254,7 @@ O diagrama abaixo ilustra as transições de estado do pedido desde a criação 
 Para o módulo de alocação de entregas, é crucial monitorar o estado operacional do `Entregador`. Este diagrama define a lógica utilizada pelo algoritmo de *dispatch* para enviar ofertas.
 
 <p align="center">
-  <img src="../../assets/diagrama-de-estados/entregador.png" alt="Entregador">
+  <img src="../assets/diagrama-de-estados/entregador.png" alt="Entregador">
 </p>
 
 **Impacto Arquitetural:**
@@ -266,7 +266,7 @@ Para o módulo de alocação de entregas, é crucial monitorar o estado operacio
 A segurança do sistema depende do estado da `Conta` do usuário. Este fluxo controla o acesso e a validade das credenciais.
 
 <p align="center">
-  <img src="../../assets/diagrama-de-estados/conta.png" alt="Entregador">
+  <img src="../assets/diagrama-de-estados/conta.png" alt="Entregador">
 </p>
 
 **Regras de Negócio:**
