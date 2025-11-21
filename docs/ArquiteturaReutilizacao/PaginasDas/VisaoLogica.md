@@ -273,6 +273,12 @@ A segurança do sistema depende do estado da `Conta` do usuário. Este fluxo con
 * Contas **Aguardando Confirmação** (pendentes de token de e-mail) têm acesso restrito apenas à funcionalidades de leitura pública.
 * O estado **Inativa** preserva os dados históricos (integridade referencial) mas bloqueia novos logins.
 
+## Quadro de Participações
+
+| **Membro da equipe** | **Função** |
+| :------------- | :--------- |
+| [Ana Joyce](https://github.com/anajoyceamorim)| Documentação da página |
+
 ## Referências
 
 > 1. UNIVERSIDADE DE BRASÍLIA (UnB). Arquitetura e Desenho de Software - Aula Arquitetura e DAS - Parte II. Disponível em: https://aprender3.unb.br/pluginfile.php/3178407/mod_page/content/1/Arquitetura%20e%20Desenho%20de%20Software%20-%20Aula%20Arquitetura%20e%20DAS%20-%20Parte%20II%20-%20Profa.%20Milene.pdf. Acesso em: 20/11/2025.
