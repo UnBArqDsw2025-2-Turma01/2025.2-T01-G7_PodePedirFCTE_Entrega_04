@@ -38,4 +38,4 @@ Aqui são encontrados alguns dos artefatos produzidos durante a Quarta Entrega, 
 
 | **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
 | :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
-| 20/11/2025 |  `1.0`   | Criação do documento. | [`@Ana Clara`](https://github.com/anabborges) | [`@`](https://github.com/) |   xx/xx/2025    |
+| 20/11/2025 |  `1.0`   | Criação do documento. | [`@Ana Clara`](https://github.com/anabborges) | [[`@Ana Joyce`](https://github.com/anajoyceamorim) |   20/11/2025    |
