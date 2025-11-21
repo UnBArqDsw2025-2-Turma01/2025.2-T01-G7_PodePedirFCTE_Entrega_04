@@ -117,3 +117,12 @@ A comunicação entre os nós segue o fluxo:
 
 Toda comunicação sensível utiliza **criptografia TLS/HTTPS**.
 
+## Referências
+- LEITE, Rodrigo M. Curso de UML - Diagrama de Implantação. YouTube, 27 de maio de 2020. Disponível em: https://www.youtube.com/watch?v=DgERD0HgggQ. Acesso em: 22 set. 2025.
+
+
+## Histórico de Versões
+
+| **Versão** | **Data**   | **Autor**   | **Descrição da Modificação**                                 |
+| ---------- | ---------- | ----------- | ------------------------------------------------------------ |
+| 1.0        | 18/11/2025 | João Filipe | Criação inicial da Visão de Implantação.                     |
