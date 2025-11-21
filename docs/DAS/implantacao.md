@@ -5,7 +5,9 @@ A Visão de Implantação do *PodePedirFCTE* apresenta a configuração física 
 Uma representação visual completa está disponível no **Diagrama de Implantação** (Figura 1), localizado em:
 **[Diagrama de Implantação](https://unbarqdsw2025-2-turma01.github.io/2025.2-T01-G7_PodePedirFCTE_Entrega_02/#/Modelagem/ModelagemEstatica/DiagramaDeImplantacao)**
 
-
+![Diagrama de Implantacao](../assets/diagrama-implantacao/Diagrama_de_Implantação_PodePedirFGA.png)
+<center>Figura 1: Diagrama de Implantacao.</center>
+<center>Fonte: Ana Joyce, Grabriela e João Filipe (2025)</center>
 
 ### **1. Dispositivo do Usuário (\<device>Navegador Web)**
 
@@ -117,12 +119,17 @@ A comunicação entre os nós segue o fluxo:
 
 Toda comunicação sensível utiliza **criptografia TLS/HTTPS**.
 
-## Referências
-- LEITE, Rodrigo M. Curso de UML - Diagrama de Implantação. YouTube, 27 de maio de 2020. Disponível em: https://www.youtube.com/watch?v=DgERD0HgggQ. Acesso em: 22 set. 2025.
+## Quadro de Participações
 
+| **Membro da equipe** | **Função** |
+| :------------- | :--------- |
+| [João Filipe](https://github.com/Joao151104) | Documentação da página |
+
+## Referências
+> LEITE, Rodrigo M. Curso de UML - Diagrama de Implantação. YouTube, 27 de maio de 2020. Disponível em: https://www.youtube.com/watch?v=DgERD0HgggQ. Acesso em: 22 set. 2025.
 
 ## Histórico de Versões
 
-| **Versão** | **Data**   | **Autor**   | **Descrição da Modificação**                                 |
-| ---------- | ---------- | ----------- | ------------------------------------------------------------ |
-| 1.0        | 20/11/2025 | João Filipe | Criação inicial da Visão de Implantação.                     |
+| **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
+| :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
+| 20/11/2025 |  `1.0`   | Criação inicial da Visão de Implantação. | [`@João Filipe`](https://github.com/Joao151104) | [`@Ana Clara`](https://github.com/anabborges) |   20/11/2025    |
