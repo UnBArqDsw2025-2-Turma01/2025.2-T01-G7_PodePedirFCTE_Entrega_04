@@ -120,6 +120,12 @@ Os seguintes relacionamentos foram identificados
 
 Com o diagrama de casos de uso apresentado neste documento é possível ter uma visão geral das principais funcionalidades do aplicativo. Servindo como um guia do que deverá ser implementado ao realizar cada um dos casos de uso. Além disso, é importante destacar que mesmo fornecendo uma boa noção de como alguns dos requisitos serão implementados, os outros documentos do DAS também são essenciais para que o projeto seja feito de maneira organizada e coerente com o que está sendo proposto com o app PodePedirFCTE.
 
+## Quadro de Participações
+
+| **Membro da equipe** | **Função** |
+| :------------- | :--------- |
+| [Luiz](https://github.com/luizfaria1989) | Documentação da página |
+
 ## Referências
 
 > 1. Agenda System. Visualização Caso de Uso. Disponível em: https://unbarqdsw2024-2.github.io/2024.2_G6_Agenda_Entrega_04/#/./itens-das/4.1.4.CasosDeUso. Acesso em: 17/11/2025.
