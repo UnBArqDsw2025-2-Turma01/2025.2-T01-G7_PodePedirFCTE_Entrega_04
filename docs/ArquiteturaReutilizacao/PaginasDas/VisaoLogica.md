@@ -286,4 +286,4 @@ A segurança do sistema depende do estado da `Conta` do usuário. Este fluxo con
 
 | **Data**       | **Versão** | **Descrição**                         | **Autor**                                      | **Revisor**                                      | **Data da Revisão** |
 | :--------: | :----: | :-------------------------------- | :----------------------------------------: | :----------------------------------------: | :-------------: |
-| 20/11/2025 |  `0.1`   | Criação da página e adição de conteúdo | [`@Ana Joyce`](https://github.com/anajoyceamorim) | [`@`](github.com/) |   20/11/2025    |
+| 20/11/2025 |  `0.1`   | Criação da página e adição de conteúdo | [`@Ana Joyce`](https://github.com/anajoyceamorim) | [`@Ana Clara`](https://github.com/anabborges) |   20/11/2025    |
